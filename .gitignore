@@ -6,3 +6,4 @@ data/
 BUSI/
 ctcf_chipseq_real/
 *.pyc
+.aider*
